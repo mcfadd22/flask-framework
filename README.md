@@ -1,3 +1,14 @@
+#Amendment for github practice
+
+So far, I'm not understanding: 
+  what I'm supposed to do with "`Procfile`, `requirements.txt`, `conda-requirements.txt`, and `runtime.txt`"
+  getting and using ubuntu, sudo, postgres....
+  how to interact with Heroku, the instructions for downloading aren't going through how I'd expect in my command prompt. I have heroku account
+  what I'm supposed to edit
+  how to get to specific editing (i.e. not directories) with command prompt
+
+Hopefully this list will shrink over time!
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
